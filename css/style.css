@@ -1,0 +1,156 @@
+.main {
+  width: 100%;
+}
+
+.heading {
+  padding-left: 500px;
+}
+
+.class1 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.sub1 {
+  border-style: solid;
+  border-radius: 10px;
+  box-shadow: 5px 0px 5px 0px;
+  justify-content: space-around;
+}
+
+.sub1:hover {
+  transform: scale(1.1);
+}
+
+.sub2 {
+  border-style: solid;
+  border-radius: 10px;
+  box-shadow: 5px 0px 5px 0px;
+  justify-content: space-around;
+}
+
+.sub2:hover {
+  transform: scale(1.1);
+}
+
+.sub3 {
+  border-style: solid;
+  border-radius: 10px;
+  box-shadow: 5px 0px 5px 0px;
+  justify-content: space-around;
+}
+
+.sub3:hover {
+  transform: scale(1.1);
+}
+
+.sub4 {
+  border-style: solid;
+  border-radius: 10px;
+  box-shadow: 5px 0px 5px 0px;
+  justify-content: space-around;
+}
+
+.sub4:hover {
+  transform: scale(1.1);
+}
+
+.class2 {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.sub5 {
+  border-style: solid;
+  border-radius: 10px;
+  box-shadow: 5px 0px 5px 0px;
+  justify-content: space-around;
+}
+
+.sub5:hover {
+  transform: scale(1.1);
+}
+
+.sub6 {
+  border-style: solid;
+  border-radius: 10px;
+  box-shadow: 5px 0px 5px 0px;
+  justify-content: space-around;
+}
+
+.sub6:hover {
+  transform: scale(1.1);
+}
+
+.sub7 {
+  border-style: solid;
+  border-radius: 10px;
+  box-shadow: 5px 0px 5px 0px;
+  justify-content: space-around;
+}
+
+.sub7:hover {
+  transform: scale(1.1);
+}
+
+.sub8 {
+  border-style: solid;
+  border-radius: 10px;
+  box-shadow: 5px 0px 5px 0px;
+  justify-content: space-around;
+}
+
+.sub8:hover {
+  transform: scale(1.1);
+}
+
+.class3 {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.sub9 {
+  border-style: solid;
+  border-radius: 10px;
+  box-shadow: 5px 0px 5px 0px;
+  justify-content: space-around;
+}
+
+.sub9:hover {
+  transform: scale(1.1);
+}
+
+.sub10 {
+  border-style: solid;
+  border-radius: 10px;
+  box-shadow: 5px 0px 5px 0px;
+  justify-content: space-around;
+}
+
+.sub10:hover {
+  transform: scale(1.1);
+}
+
+.sub11 {
+  border-style: solid;
+  border-radius: 10px;
+  box-shadow: 5px 0px 5px 0px;
+  justify-content: space-around;
+}
+
+.sub11:hover {
+  transform: scale(1.1);
+}
+
+.sub12 {
+  border-style: solid;
+  border-radius: 10px;
+  box-shadow: 5px 0px 5px 0px;
+  justify-content: space-around;
+}
+
+.sub12:hover {
+  transform: scale(1.1);
+}
